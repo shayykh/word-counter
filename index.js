@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log('* WORD COUNTER *');
 let input = await inquirer.prompt([
